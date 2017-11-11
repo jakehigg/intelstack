@@ -1,0 +1,8 @@
+chronograf/data/
+elasticsearch/data/
+grafana/data/
+influxdb/data/
+kapacitor/data/
+kibana/data/
+logstash/data/
+telegraf/data/
